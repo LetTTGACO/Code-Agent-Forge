@@ -1,0 +1,20 @@
+{
+  "name": "codeforge",
+  "version": "0.0.1",
+  "description": "Local CLI + WebUI for managing custom configurations across AI coding agents",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LetTTGACO/CodeForge.git"
+  },
+  "keywords": [
+    "Claude",
+    "Code"
+  ],
+  "author": "LetTTGACO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LetTTGACO/CodeForge/issues"
+  },
+  "homepage": "https://github.com/LetTTGACO/CodeForge#readme"
+}
