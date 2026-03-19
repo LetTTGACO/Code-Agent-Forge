@@ -1,11 +1,11 @@
 {
-  "name": "codeforge",
+  "name": "code-agent-forge",
   "version": "0.0.1",
   "description": "Local CLI + WebUI for managing custom configurations across AI coding agents",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LetTTGACO/CodeForge.git"
+    "url": "git+https://github.com/LetTTGACO/code-agent-forge.git"
   },
   "keywords": [
     "Claude",
@@ -14,7 +14,7 @@
   "author": "LetTTGACO",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LetTTGACO/CodeForge/issues"
+    "url": "https://github.com/LetTTGACO/code-agent-forge/issues"
   },
-  "homepage": "https://github.com/LetTTGACO/CodeForge#readme"
+  "homepage": "https://github.com/LetTTGACO/code-agent-forge#readme"
 }
